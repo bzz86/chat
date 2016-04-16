@@ -1,4 +1,8 @@
 # Chat
+
+**building:**
+> mvn package
+
 **running:**
-> **java -jar target/chat-3.2.1-fat.jar**
+> java -jar target/chat-3.2.1-fat.jar
 
